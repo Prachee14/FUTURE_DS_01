@@ -81,7 +81,7 @@ Before creating the dashboard, I:
 ## Dashboard Preview
 <img width="1151" height="645" alt="image" src="https://github.com/user-attachments/assets/c93bc61d-70ca-4359-bab8-b20aeb62995d" />
 
-Author
-Prachee Shetye
-MSc Statistics and Data Science Student
+##Author
+*Prachee Shetye
+*MSc Statistics and Data Science Student
 
